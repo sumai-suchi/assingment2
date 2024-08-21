@@ -41,13 +41,13 @@
     margin-left: 30px;
     height:400px;
     
-     border: 1px solid red;
+     /* border: 1px solid red; */
     width: 270px;
 
 }
 .div1 
 {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height:280px;
     width: 333px;
     margin-left: 30px;
@@ -127,7 +127,7 @@
 }
 .main-sec-2 
 {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     flex-direction: column;
     margin: 40px auto;
@@ -136,7 +136,7 @@
 {
    
     
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 10px 0px;
 }
 .sec-3
@@ -233,7 +233,7 @@
 .trainer-name1
 {
   position: absolute;
-  top: 4400px; 
+  top: 4410px; 
   left: 80px;
   font-size: 14px;
 }
@@ -247,7 +247,7 @@
 .trainer-name3
 {
   position: absolute;
-  top: 4920px; 
+  top: 4930px; 
   left: 75px;
   font-size: 14px;
 }
@@ -334,7 +334,7 @@ footer
 {
     height: 270px;
     width: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .footer-description
 {
@@ -366,7 +366,7 @@ hr
     left: 90px;
     width: 290px;
     max-width: 100%;
-    top:6720px
+    top:7300px
     
 }
 .copy-right-des
@@ -377,8 +377,18 @@ hr
 }
 
 
+/* new section */
+.video-sec
+{
+    width: 100%;
+    margin: 0px;
+}
 
-
+.video-1
+{
+    width: 100%;
+    margin: 60px auto;
+}
 
 
 }
