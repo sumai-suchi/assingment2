@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-
-
+*{
+    box-sizing: border-box;}
 .inter-font {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -552,4 +552,18 @@ hr
 .icon-plus
 {
   display: none;  
+}
+
+.video-sec
+{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.052),rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.1));
+    width: 50%;
+    margin-left: 400px;
+    text-align: center;
+    border: 1px dotted rgba(148, 137, 137, 0.744);
+}
+
+.videos-para
+{
+    color: rgba(154, 150, 150, 0.651);
 }
